@@ -7,4 +7,4 @@ Rafael Matos - GitHub Pages Portfolio
 * Scraped over 10000 patients information
 * Data processing and analysis
 
-![](https://github.com/rafaelportm/Portfolio/blob/main/images/unnamed.png)
+![](images/unnamed.png)
